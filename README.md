@@ -6,4 +6,8 @@ Performing analysis on Kickstarter to uncover trends
 **Analysis and Challenges** For deliverable #1, 1369 past theater campaigns were analyzed based on outcome and launch date.  The following PivotTable was created in order to show a complete breakdown of data: 
 ![image](https://user-images.githubusercontent.com/99574730/153797941-3750ae1e-9c66-410c-84e6-97ff4a7eb5fc.png)
 
-From the PivotTable, it appears that 839 campaigns out of 1369 (~61%) were successful in raising their goal funding.   A small percentage (3%) of theater campaigns created were ultimately canceled, and the remaining ~36% had a failed outcome.  In addition, the highest number of campaigns are historically launched in summer months (May, June, and July).  A graph was also created from the PivotTable to visually depict the trends present:
+
+**Results** From the PivotTable, it appears that 839 campaigns out of 1369 (~61%) were successful in raising their goal funding.   A small percentage (3%) of theater campaigns created were ultimately canceled, and the remaining ~36% had a failed outcome.  In addition, the highest number of campaigns are historically launched in summer months (May, June, and July).  A line graph was also created from the PivotTable to visually depict the trends present:
+![image](https://user-images.githubusercontent.com/99574730/153798374-16a015c3-6b9f-47f2-b2d9-07426136ded4.png)
+
+Based on the line graph, the highest proportion of successful theater campaigns occur in May.  Campaigns launched in May and June historically obtain 100% of their campaign goal, and July campaigns reach ~90% of their goal.  A steady decline in successful campaigns is seen from May until September, until a modest increase in October and another decrease until December.
